@@ -1,0 +1,38 @@
+<annotation>
+	<folder>callaway</folder>
+	<filename>callaway.b99d744a-c51f-11ee-8765-244bfe93b879.jpg</filename>
+	<path>C:\Users\Jonathan Rönnäs\Tprog\Tensorflow Object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\callaway\callaway.b99d744a-c51f-11ee-8765-244bfe93b879.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>156</ymin>
+			<xmax>328</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Callaway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>260</ymin>
+			<xmax>240</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
